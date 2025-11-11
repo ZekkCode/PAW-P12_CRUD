@@ -1,4 +1,5 @@
-# CRUD Mahasiswa UTM (PHP Prosedural + MySQLi)
+# P12: CRUD
+## CRUD Mahasiswa UTM
 
 Aplikasi CRUD data mahasiswa Universitas Trunojoyo Madura menggunakan PHP Prosedural, MySQLi, dan Tailwind CSS.
 
